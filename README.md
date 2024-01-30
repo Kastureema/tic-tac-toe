@@ -13,4 +13,4 @@ It utilizes the following concepts:
 - assigning a key to a list
 - use of array map() method to transform one array into another
 
-Deployment: Deployed and setup the website using github pages
+Deployed using github pages.
