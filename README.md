@@ -11,3 +11,4 @@ It utilizes the following concepts:
 - lifting state into a parent component when refactoring components
 - implementing immutability using array slice() method 
 - assigning a key to a list
+- use of array map() method to transform one array into another
