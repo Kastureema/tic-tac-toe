@@ -1,7 +1,7 @@
 React - tic-tac-toe game
 
 This has been created using React, HTML, CSS and lets an user play basic tic-tac-toe. It indicates when a player has won the game and stores the game's history as the game progresses. 
-It also allows players to review a game's history and see previous versions of a game's board.
+It also allows players to review a game's history, see previous versions of a game's board and sort the moves in ascending or descending order.
 
 It utilizes the following concepts:
 - Fragments (<> and </>) to wrap multiple JSX elements
